@@ -15,12 +15,12 @@ export const SITE = {
   university: 'Tsinghua University',
   logo: '/assets/logo-real.svg', // Logo path
   avatar: '/assets/logo-real.svg', // Avatar for SEO/Schema
-  email: 'contact@lab.edu', // Contact email for Join Us page
+  email: 'jayin@mail.tsinghua.edu.cn', // Contact email for Join Us page
 
   // Hero Section (Home Page) - Main content does not need to be translated for 8 languages by default
   hero: {
-    title: 'Advancing Computer Vision & Deep Learning Research.',
-    subtitle: 'We are the Scholar-Lite Lab.',
+    title: 'Advancing Neuron Degenerative Disease and Aging Research',
+    subtitle: 'We are the Yin Lab.',
     action: 'View Publications', // Optional call to action text
     image: heroImage, // Hero image path
   },
