@@ -11,8 +11,8 @@ export const SITE = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   
   // Lab Info
-  labName: 'Scholar-Lite Lab',
-  university: 'University Name',
+  labName: 'YinLab',
+  university: 'Tsinghua University',
   logo: '/assets/logo-real.svg', // Logo path
   avatar: '/assets/logo-real.svg', // Avatar for SEO/Schema
   email: 'contact@lab.edu', // Contact email for Join Us page
