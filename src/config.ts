@@ -3,7 +3,7 @@ import heroImage from './assets/hero-real.jpg';
 export const SITE = {
   website: 'https://scholar-lite-demo.netlify.app/', // Replace with your actual deployed URL
   author: 'Scholar-Lite Team',
-  description: 'Parkinson's Disease and aging',
+  description: "Parkinson's Disease and aging",
   title: 'YinLab',
   ogImage: 'astropaper-og.jpg',
   lightAndDarkMode: true,
