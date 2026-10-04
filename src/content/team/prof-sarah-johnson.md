@@ -1,10 +1,10 @@
 ---
-name: "Prof. Sarah Johnson"
+name: "Prof. Jiang-An Yin"
 role: "Principal Investigator"
-title: ["Principal Investigator", "Academician of CAS", "IEEE Fellow"]
+title: ["Principal Investigator", "Assistant professor"]
 avatar: "../../assets/avatar-sarah.jpg"
-bio: "Professor of Computer Science, focusing on Human-AI Interaction and Ethical AI."
-email: "sarah.johnson@university.edu"
+bio: "Professor of School of Basic Medical Sciences, focusing on Parkinson's disease and aging."
+email: "jayin@mail.tsinghua.edu.cn"
 linkedin: "https://linkedin.com"
 github: "https://github.com/fjd2004711"
 googleScholar: "https://scholar.google.com"
