@@ -2,7 +2,7 @@
 name: "Prof. Jiang-An Yin"
 role: "Principal Investigator"
 title: ["Principal Investigator", "Assistant professor"]
-avatar: "src/assets/team/YJA.jpg"
+avatar: "../../assets/team/YJA.jpg"
 bio: "Professor of School of Basic Medical Sciences, focusing on Parkinson's disease and aging."
 email: "jayin@mail.tsinghua.edu.cn"
 linkedin: "https://linkedin.com"
